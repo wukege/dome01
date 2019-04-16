@@ -1,0 +1,27 @@
+6. opt
+8. endsWith('.')
+3. fold
+4. Left
+5. Right
+1. flatMap
+2. forkJoin
+7. const sicCode = store.getValue<string>(`${eisBindTo}.sicCode`, this.props.eisModel)
+
+启动webpack
+npx webpack rxdome.js --mode development
+ts 泛型
+ts 高级类型
+ts 装饰者
+ts 反射  https://github.com/rbuckton/reflect-metadata
+
+Subject 与 react 连接
+
+
+柯里化函数
+闭包
+高级函数
+map filter forEach reduce promise
+管道 流
+空指针检查
+rxjs
+

@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es6",
+        "experimentalDecorators": true,
+        "sourceRoot": "src"
+    }
+}
